@@ -1,6 +1,8 @@
 # Progression-Outcomes-Python
 A python program that allows the students to predict their progression outcome at the end of each academic year.
+
 The University requires a program to predict progression outcomes at the end of each academic year. Write this program in Python using the data shown in Table below.  
+
    	Volume of Credit at Each Level    	Progression Outcome   
    	Pass   	Defer   	Fail   	
 1   	120   	0   	0   	   Progress   
@@ -100,14 +102,18 @@ Enter your total FAIL credits: 80   Exclude
 Would you like to enter another set of data?   
 Enter 'y' for yes or 'q' to quit and view results: q   
    
----------------------------------------------------------------   Histogram   
+---------------------------------------------------------------
+
+Histogram   
 Progress 1  : *   
 Trailer 1   : *   
 Retriever 2 : **   
 Excluded 1  : *   
-   
-5 outcomes in total.   
-----------------------------------------------------------------      
+
+5 outcomes in total. 
+
+----------------------------------------------------------------   
+     
  	   
 Part 2 – List (extension) (6 marks)   
 For Part 1, most of the solutions would use variables to store the input data.  For Part 2, extend your solution so that the program saves the input progression data to a list or nested list. Then access the stored data from the list and print the data in the following format below. 
