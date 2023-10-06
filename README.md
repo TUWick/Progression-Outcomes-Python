@@ -1,7 +1,6 @@
 # Progression-Outcomes-Python
 A python program that allows the students to predict their progression outcome at the end of each academic year.
 The University requires a program to predict progression outcomes at the end of each academic year. Write this program in Python using the data shown in Table below.  
-
    	Volume of Credit at Each Level    	Progression Outcome   
    	Pass   	Defer   	Fail   	
 1   	120   	0   	0   	   Progress   
